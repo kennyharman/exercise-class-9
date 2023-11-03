@@ -1,4 +1,4 @@
-# Lab 2 Save To Different
+# Lab 2 Save To Different Branches
 ## Created by
 - Harman
 ## Description
